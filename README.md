@@ -10,4 +10,4 @@
 
 ![키티](./imgs/1.png)
 ![마멜](./imgs/2.png)
-![쿠로미](./imgs/3.png)
+![쿠로미](./imgs/ffpng.png)
